@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<bank>
+	<amount>100</amount>
+	<date>today</date>
+	<name>BisaBank</name>
+	<transaction>Deposit</transaction>
+</bank>

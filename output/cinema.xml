@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<cinema>
+	<close>10pm</close>
+	<movie>Interstellar</movie>
+	<name>Waltz Cinema</name>
+	<open>9AM</open>
+</cinema>
